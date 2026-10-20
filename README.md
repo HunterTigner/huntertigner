@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HunterTigner/huntertigner/blob/main/details/pfmybanner.png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/HunterTigner/huntertigner/blob/main/details/pfbanner.png?raw=true" alt="Banner" width="100%">
 </p>
 
 # Welcome to my Profile
